@@ -1,7 +1,7 @@
 # flutter-applications
-##Bunch of applications for practicing different technologies(lib) by using Flutter
+## Bunch of applications for practicing different technologies(lib) by using Flutter
 
-###Applications that are under this repository:
+### Applications that are under this repository:
 -- flutter_async: GetX, async, http(GET) + deserialization
 -- flutter_chess: GetX controllers, tags, (lib)flutter_chess_board, navigation
 -- flutter_chess_score:
@@ -9,7 +9,7 @@
 -- flutter_reset_number:
 
 
-###The description of the project:
+### The description of the project:
 -- flutter_async: the applicaiton that has two containers and each does the function that is written for it asynchrony on one page.
    1. First container shows the the length of the site which the name is written in the TextField;
    2. Second container increasing/decreasing the size of the text "Żabka" each 5 second. 
@@ -19,8 +19,7 @@
 -- flutter_chess: the application contains two pages.
    1. First page contains two chessboards, one for each player; the movements on the boards are asynchronous. 
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-05-08 at 15 15 56](https://user-images.githubusercontent.com/67626128/236834024-1f531fe1-e4d2-4525-95ef-f50a03a77afb.png)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-05-08 at 15 15 43](https://user-images.githubusercontent.com/67626128/236833992-8cd2ef65-bad4-43fd-88ad-2a26d3238be9.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-05-08 at 15 15 56](https://user-images.githubusercontent.com/67626128/236834024-1f531fe1-e4d2-4525-95ef-f50a03a77afb.png) ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-05-08 at 15 15 43](https://user-images.githubusercontent.com/67626128/236833992-8cd2ef65-bad4-43fd-88ad-2a26d3238be9.png)
 
 -- flatter_random_number:
 
